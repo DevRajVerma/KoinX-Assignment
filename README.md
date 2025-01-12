@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-[View Live Demo](Your-Deployed-Link-Here)
+[View Live Demo](https://koin-x-assignment-eosin.vercel.app)
 
 ## 🎨 Design
 
